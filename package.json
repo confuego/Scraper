@@ -1,0 +1,13 @@
+{
+  "name"         : "ebay-scrape",
+  "version"      : "0.0.1",
+  "description"  : "Scrape Google, Bing, and Yahoo for search results.",
+  "main"         : "searchengine.js",
+  "author"       : "Wes",
+  "dependencies" : {
+      "express" : "latest",
+      "request" : "latest",
+      "cheerio" : "latest",
+      "fs" : "latest"
+  }
+}
